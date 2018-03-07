@@ -18,6 +18,7 @@ public class BestFirstSearch_8Puzzle {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //Please don't forget to read the Readme.txt
         int values[][] = {{2, 8, 3}, {1, 6, 4}, {7, -1, 5}}; //problem
         int goal_v[][] = {{1,2,3}, {8,-1,4}, {7,6,5}};//goal
 
